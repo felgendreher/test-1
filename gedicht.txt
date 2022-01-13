@@ -7,5 +7,6 @@ Blau
 Gelb
 Magenta
 Red- the color of fire!
+Magenta-Patrone kaufen!
 
 Sind alles tolle Farben.
